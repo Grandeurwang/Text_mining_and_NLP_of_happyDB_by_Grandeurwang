@@ -10,7 +10,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 Term: Spring 2019
 
 + Projec title: Text mining of HappyDB
-+ This project is conducted by [Guanren Wang]
++ This project is conducted by **Guanren Wang**
 
 + Project summary:\
 •	Analyzed and visualized frequent key words regarding happiness and implemented sentiment analysis to explore and compare the different degrees of happiness between different genders and between age groups\
