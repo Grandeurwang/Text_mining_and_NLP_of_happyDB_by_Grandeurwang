@@ -1,13 +1,11 @@
-# Applied Data Science @ Columbia
-## Spring 2019
-## Project 1: What made you happy today?
+# Project 1: What made you happy today?
 
 ![image](figs/title.jpeg)
 
 ### [Project Description](doc/Proj1_desc.md)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
-Term: Spring 2019
+Term: **Spring 2019**
 
 + Projec title: Text mining of HappyDB
 + This project is conducted by **Guanren Wang**
