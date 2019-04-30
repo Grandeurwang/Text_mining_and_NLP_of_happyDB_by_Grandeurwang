@@ -1,4 +1,4 @@
-# Project 1: What made you happy today?
+# Project 1: Text mining of HappyDB
 
 ![image](figs/title.jpeg)
 
@@ -7,9 +7,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: **Spring 2019**
 
-+ Projec title: Text mining of HappyDB
 + This project is conducted by **Guanren Wang**
-
 + Project summary:\
 •	Analyzed and visualized frequent key words regarding happiness and implemented sentiment analysis to explore and compare the different degrees of happiness between different genders and between age groups\
 •	Explored and visualized the relationships between key words in order to uncover causes of happiness\
