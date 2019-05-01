@@ -13,6 +13,7 @@ This is the first and only ***individual*** (as opposed to *team*) this semester
 ### Examples of Illustrations
 
 ![image](figs/wordcloud.png)
+
 ![image](figs/relationships of words.png)
 
 
