@@ -10,7 +10,7 @@ HappyDB is a corpus of 100,000 crowd-sourced happy moments. The goal of the corp
 
 ### [Data Source](/data)
 
-You may find the complete introduction here: [LInk](https://rit-public.github.io/HappyDB/)
+You may find the complete introduction of HappyDB here: [LInk](https://rit-public.github.io/HappyDB/)
 
 ### Project Summary:
 + Analyzed and visualized frequent key words regarding happiness and implemented sentiment analysis to explore and compare the different degrees of happiness between different genders and between age groups
