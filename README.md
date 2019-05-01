@@ -3,9 +3,7 @@
 ![image](figs/title.jpeg)
 
 ### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
-
-Term: **Spring 2019**
+This is the first and only ***individual*** (as opposed to *team*) this semester. 
 
 + This project is conducted by **Guanren Wang**
 + Project summary:\
