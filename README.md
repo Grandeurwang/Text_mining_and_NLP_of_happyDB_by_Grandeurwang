@@ -5,6 +5,11 @@
 ### [Project Description](doc/Proj1_desc.md)
 This is the first and only ***individual*** (as opposed to *team*) this semester. This project is finished by **Guanren Wang**
 
+### Background
+HappyDB is a corpus of 100,000 crowd-sourced happy moments. The goal of the corpus is to advance the state of the art of understanding the causes of happiness that can be gleaned from text.
+
+You may find it here: [Link](https://rit-public.github.io/HappyDB/)
+
 ### Project Summary:
 + Analyzed and visualized frequent key words regarding happiness and implemented sentiment analysis to explore and compare the different degrees of happiness between different genders and between age groups
 + Explored and visualized the relationships between key words in order to uncover causes of happiness
