@@ -17,7 +17,7 @@ You may find it here: [Link](https://rit-public.github.io/HappyDB/)
 
 ### Complete Data Story: [Text mining of HappyDB](http://rpubs.com/Grandeur/Text_mining_and_NLP_of_happyDB)
 
-### Examples of Illustrations
+### Examples of Visualizations
 
 ![image](figs/wordcloud.png)
 
