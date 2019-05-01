@@ -14,6 +14,8 @@ This is the first and only ***individual*** (as opposed to *team*) this semester
 
 ![image](figs/wordcloud.png)
 
+
+
 ![image](figs/relationships of words.png)
 
 
