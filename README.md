@@ -11,6 +11,10 @@ This is the first and only ***individual*** (as opposed to *team*) this semester
 + Identified the latent cause for the discrepancy between Americans’ happiness and Indians’ happiness using Latent Dirichlet Allocation 
 
 ### Examples of Illustrations
+![image](lib/wordcloud.png)
+![image](lib/relationships of words.png)
+
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
