@@ -24,4 +24,4 @@ happydb
     └── vad.csv
 ```
 
-** For schema descriptions of the files, please [click here](https://github.com/rit-public/HappyDB#cleaned_hmcsv)
+**For schema descriptions of the files, please [click here](https://github.com/rit-public/HappyDB#cleaned_hmcsv)**
