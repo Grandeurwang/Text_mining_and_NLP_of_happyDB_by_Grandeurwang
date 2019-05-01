@@ -10,6 +10,7 @@ This is the first and only ***individual*** (as opposed to *team*) this semester
 + Explored and visualized the relationships between key words in order to uncover causes of happiness
 + Identified the latent cause for the discrepancy between Americans’ happiness and Indians’ happiness using Latent Dirichlet Allocation 
 
+### Examples of Illustrations
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
