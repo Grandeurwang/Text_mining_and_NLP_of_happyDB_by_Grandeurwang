@@ -6,16 +6,17 @@
 This is the first and only ***individual*** (as opposed to *team*) this semester. This project is finished by **Guanren Wang**
 
 ### Background
-HappyDB is a corpus of 100,000 crowd-sourced happy moments. The goal of the corpus is to advance the state of the art of understanding the causes of happiness that can be gleaned from text.
+Nowadays, depression has been becoming a major threat for human being. Hoping to help them from a data-driven prospective, I did text mining on HappyDB, a corpus of 100,000 crowd-sourced happy moments. The goal is to advance the state of the art of understanding the causes of happiness that can be gleaned from text, which, furthermore, could be a reference for doctors.
 
 ### [Data Source](/data)
 
 You may find the complete introduction of HappyDB here: [LInk](https://rit-public.github.io/HappyDB/)
 
 ### Project Summary:
-+ Analyzed and visualized frequent key words regarding happiness and implemented sentiment analysis to explore and compare the different degrees of happiness between different genders and between age groups
-+ Explored and visualized the relationships between key words in order to uncover causes of happiness
-+ Identified the latent cause for the discrepancy between Americans’ happiness and Indians’ happiness using Latent Dirichlet Allocation 
++ cleaned unstructured data and transformed (tokenized and lemmatized) it into a well-formatted dataframe
++ used sentiment analysis method to explore the extent of happiness and found the extent of happiness across all age groups are almost same for male and female, but it differs for other genders
++ constructed relationship network between key words and discovered most probable causes of happiness such as job offer, video game and ride bike
++ discovered that Americans tend to gain happiness by themselves, while Indians are more likely to enjoy their life with family members or other relatives, after exploration of data using Latent Dirichlet Allocation 
 
 ### Complete Data Story: [Text mining of HappyDB](http://rpubs.com/Grandeur/Text_mining_and_NLP_of_happyDB)
 
